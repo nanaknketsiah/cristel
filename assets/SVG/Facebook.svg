@@ -1,0 +1,13 @@
+<svg id="Facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30.625" viewBox="0 0 30 30.625">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_340" data-name="Rettangolo 340" width="30" height="30.625" fill="#4c303f"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_536" data-name="Raggruppa 536" clip-path="url(#clip-path)">
+    <path id="Tracciato_303" data-name="Tracciato 303" d="M123.775,230.2l-.193.015.193-.015" transform="translate(-107.505 -199.627)" fill="#4c303f"/>
+    <path id="Tracciato_304" data-name="Tracciato 304" d="M15,0A15.159,15.159,0,0,0,0,15.313,15.159,15.159,0,0,0,15,30.625h.018a14.263,14.263,0,0,1-1.765-.115V19.359H10.193v-4.07h3.061v-2.4a6.66,6.66,0,0,1,2.035-5.1,7.5,7.5,0,0,1,5.344-1.908,9.153,9.153,0,0,1,2.779.355v4.29a5.554,5.554,0,0,0-2.068-.439q-2.746,0-2.746,3.107v2.094h4.169v4.07H18.6V30.172a14.177,14.177,0,0,1-2.134.381A15.2,15.2,0,0,0,30,15.313,15.159,15.159,0,0,0,15,0" fill="#4c303f"/>
+    <path id="Tracciato_305" data-name="Tracciato 305" d="M116.836,230.565l-.251,0c.084,0,.168,0,.251,0" transform="translate(-101.419 -199.946)" fill="#4c303f"/>
+    <path id="Tracciato_306" data-name="Tracciato 306" d="M120.637,230.435l-.154.007.154-.007" transform="translate(-104.81 -199.833)" fill="#4c303f"/>
+  </g>
+</svg>

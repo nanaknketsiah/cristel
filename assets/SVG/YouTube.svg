@@ -1,0 +1,13 @@
+<svg id="YouTube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_341" data-name="Rettangolo 341" width="30" height="30" fill="#4c303f"/>
+    </clipPath>
+  </defs>
+  <path id="Tracciato_307" data-name="Tracciato 307" d="M99.825,98.654l5.147-2.928L99.825,92.8Z" transform="translate(-86.838 -80.726)" fill="#4c303f"/>
+  <g id="Raggruppa_539" data-name="Raggruppa 539">
+    <g id="Raggruppa_538" data-name="Raggruppa 538" clip-path="url(#clip-path)">
+      <path id="Tracciato_308" data-name="Tracciato 308" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0m9.435,19.771a2.474,2.474,0,0,1-1.741,1.752c-1.536.414-7.694.414-7.694.414s-6.158,0-7.694-.414a2.475,2.475,0,0,1-1.741-1.752A25.958,25.958,0,0,1,5.154,15a25.958,25.958,0,0,1,.411-4.771A2.475,2.475,0,0,1,7.306,8.477C8.842,8.063,15,8.063,15,8.063s6.158,0,7.694.414a2.474,2.474,0,0,1,1.741,1.752A25.958,25.958,0,0,1,24.846,15a25.958,25.958,0,0,1-.411,4.771" fill="#4c303f"/>
+    </g>
+  </g>
+</svg>

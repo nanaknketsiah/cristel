@@ -1,0 +1,12 @@
+<svg id="Instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_326" data-name="Rettangolo 326" width="30" height="30" fill="#4c303f"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_430" data-name="Raggruppa 430" clip-path="url(#clip-path)">
+    <path id="Tracciato_113" data-name="Tracciato 113" d="M70.778,59.388H63.042a3.406,3.406,0,0,0-3.406,3.406V70.53a3.406,3.406,0,0,0,3.406,3.406h7.736a3.406,3.406,0,0,0,3.406-3.406V62.794a3.406,3.406,0,0,0-3.406-3.406M66.91,71.377a4.715,4.715,0,1,1,4.715-4.715,4.715,4.715,0,0,1-4.715,4.715m4.715-8.152A1.278,1.278,0,1,1,72.9,61.947a1.278,1.278,0,0,1-1.278,1.278" transform="translate(-51.878 -51.662)" fill="#4c303f"/>
+    <path id="Tracciato_114" data-name="Tracciato 114" d="M95.491,92.242a3,3,0,1,0,3,3,3,3,0,0,0-3-3" transform="translate(-80.459 -80.242)" fill="#4c303f"/>
+    <path id="Tracciato_115" data-name="Tracciato 115" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0m9.056,18.836a5.188,5.188,0,0,1-5.188,5.188H11.2a5.188,5.188,0,0,1-5.188-5.188V11.164A5.188,5.188,0,0,1,11.2,5.977h7.671a5.188,5.188,0,0,1,5.188,5.188Z" fill="#4c303f"/>
+  </g>
+</svg>
